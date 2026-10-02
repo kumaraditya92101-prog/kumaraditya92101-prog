@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech 3rd Year Student
+- 🎓 B.Tech 3rd Year **Infromation Technology** Student
 - 🤖 Passionate about **Machine Learning, Deep Learning & AI**
 - 💻 Practicing **DSA & Competitive Programming**
 - 🚀 Building real-world **AI/ML and Full-Stack projects**
