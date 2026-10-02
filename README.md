@@ -77,7 +77,7 @@ An end-to-end movie recommendation system using Machine Learning with a deployed
 
 **Tech:** Python • Pandas • Scikit-learn • FastAPI • Streamlit • TMDB API
 
-🔗 [View Project](https://github.com/kumaraditya92101-prog/movie-rec)
+🔗 [View Project](https://movie-rec-7k2w.onrender.com)
 
 ---
 
@@ -87,7 +87,7 @@ A Deep Learning based project for predicting emotions from text.
 
 **Tech:** Python • Deep Learning • NLP • Jupyter Notebook
 
-🔗 [View Project](https://github.com/kumaraditya92101-prog/emotion-predict)
+🔗 [View Project](https://emotion-predict.onrender.com)
 
 ---
 
@@ -97,7 +97,7 @@ A personal developer portfolio showcasing my skills, projects and experience.
 
 **Tech:** HTML • CSS • JavaScript
 
-🔗 [View Project](https://github.com/kumaraditya92101-prog/portfolio)
+🔗 [View Project](https://portfolioo-psi-two.vercel.app/)
 
 ---
 
