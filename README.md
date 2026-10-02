@@ -77,7 +77,7 @@ An end-to-end movie recommendation system using Machine Learning with a deployed
 
 **Tech:** Python • Pandas • Scikit-learn • FastAPI • Streamlit • TMDB API
 
-🔗 [View Project](https://movie-rec-7k2w.onrender.com)
+🔗 [View Project](https://movie-rec-byeng4w3hqhtx2k7byvrg6.streamlit.app/?view=home#overview)
 
 ---
 
